@@ -1,3 +1,5 @@
 /venv/
 /.idea/
 /media/*
+/cert.crt
+/cert.key
